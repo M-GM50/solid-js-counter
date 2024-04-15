@@ -1,0 +1,14 @@
+.question{
+    margin-left: 120px;
+    padding: 10px;
+    border: 1px solid black;
+    display: inline;
+}
+
+
+.counter{
+    display:flex;
+    justify-content: space-between;
+    max-width: 300px;
+    margin: 50px;
+}
