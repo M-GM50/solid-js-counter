@@ -5,8 +5,8 @@
   "scripts": {
     "start": "vite",
     "dev": "vite",
-    "build": "vite build",
-    "serve": "vite preview"
+    "build": "vite build --base=/solid-js-counter",
+    "serve": "vite preview --open"
   },
   "license": "MIT",
   "devDependencies": {
